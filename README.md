@@ -1,1 +1,1 @@
-## Wildfire Predcition
+## Wildfire Predicition
